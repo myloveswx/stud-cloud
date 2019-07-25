@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserCardApplication {
 
 	public static void main(String[] args) {
-		//启动
+		//启动1
 		SpringApplication.run(UserCardApplication.class, args);
 	}
 
